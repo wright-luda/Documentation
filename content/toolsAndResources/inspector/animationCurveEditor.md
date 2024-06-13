@@ -58,7 +58,7 @@ Pressing the Create tab will display a menu that allows you to create a new anim
 - Mode: This allows you to choose between a `List` of animatable properties OR specify a `Custom` attribute.
 - Property: The list of available animatable properties if Mode is set to `List`, or a text field if Mode is set to `Custom`.
 - Type: The type of underlying Babylon Property that will be animated.
-- Loop Mode: The desired loop mode for the new animation, `Cylce`, `Relative`, or `Constant`.
+- Loop Mode: The desired loop mode for the new animation, `Cycle`, `Relative`, or `Constant`.
 
 #### Loading An Animation
 
